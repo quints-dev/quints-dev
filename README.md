@@ -2,10 +2,10 @@
 
 ### About me:
 
-- 🔭  <strong>Full-Stack Web Development JavaScript</strong>
+- 🔭  <strong>Front End Web Development JavaScript</strong>
 - 🌱  <strong>UX/UI Designer </strong>
 - ☕ <strong>Coffee Fan</strong>
-- 🧐 <strong> I am constantly learning </strong>
+- 🧐 <strong> I 'm learning AWS and Python </strong>
 - ⚡ Fun fact: I can like to talk about Colo-Colo and videogames.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
